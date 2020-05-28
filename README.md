@@ -1,4 +1,5 @@
 # todolist
+项目使用vue-vuex-axios和ant-design-vue组件库制作的一个简易的待办清单
 
 ## Project setup
 ```
